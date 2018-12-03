@@ -1,0 +1,79 @@
+body {
+	text-align: center;
+	background-color: #F7F9FC
+}
+
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size:50px;
+	color: red;
+}
+
+h2 {
+	font-family: 'Exo', sans-serif;
+	font-weight: bolder;
+	color: purple;
+}
+
+img {
+	width: 330px;
+	height: 280px;
+	border-radius: 50%;
+}
+
+p {
+	font-family: 'Shadows Into Light', cursive;
+}
+
+li {
+	font-family: 'Shadows Into Light', cursive;
+	color: black;
+}
+
+a {
+	text-decoration: none;
+	padding: 0px;
+
+}
+
+
+ul > li {
+	font-family: 'Shadows Into Light', cursive;
+	color: black;
+	list-style: none;
+}
+
+.section {
+	background-color: white;
+	box-shadow: 1px 10px 30px rgb(220,220,220);
+	width: 700px;
+	margin: 20px auto;
+	padding: 20px 30px;
+	border-radius: 3px
+}
+
+.btn-purple {
+	background-color: black;
+	box-shadow: 1px 5px 10px rgb(200,200,200);
+	width: 500px;
+	margin: 10px auto;
+	padding: 10px 20px;
+	border-radius: 3px;
+	color: white;
+}
+
+.list-inline {
+	background-color: grey;
+	box-shadow: 1px 5px 10px rgb(200,200,200);
+	width: 500px;
+	margin: 10px auto;
+	padding: 10px 20px;
+	border-radius: 3px
+}
+
+.social-media {
+	color: black;
+	display: inline;
+}
+
